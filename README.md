@@ -2,19 +2,31 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Sahil Sharma - Full Stack Portfolio
 
-This contains everything you need to run your app locally.
+Welcome to my professional developer portfolio.
 
-View your app in AI Studio: https://ai.studio/apps/64828c2c-1736-40c8-af98-f28365603c38
+## Tech Stack
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion & GSAP
+- Spline 3D
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
+## Running Locally
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
